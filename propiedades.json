@@ -1,12 +1,12 @@
 [
-    {"imagen":"fotos/foto1.jpg", "precio":"10.000", "habitaciones":"1", "m2":"20", "barrio":"Cerro", "interes":"Alquiler"},
-    {"imagen":"fotos/foto2.jpeg", "precio":"120.000", "habitaciones":"3", "m2":"71", "barrio":"Prado", "interes":"Venta"},
-    {"imagen":"fotos/foto3.jpg", "precio":"15.000", "habitaciones":"2", "m2":"45", "barrio":"La Teja", "interes":"Alquiler"},
-    {"imagen":"fotos/foto", "precio":"19.000", "habitaciones":"2", "m2":"56", "barrio":"Reducto", "interes":"Alquiler"},
-    {"imagen":"fotos/foto", "precio":"200.000", "habitaciones":"4", "m2":"120", "barrio":"Carrasco", "interes":"Venta"},
-    {"imagen":"fotos/foto", "precio":"11.000", "habitaciones":"1", "m2":"22", "barrio":"Belvedere", "interes":"Alquiler"},
-    {"imagen":"fotos/foto", "precio":"90.000", "habitaciones":"2", "m2":"51", "barrio":"Centro", "interes":"Venta"},
-    {"imagen":"fotos/foto", "precio":"54.000", "habitaciones":"2", "m2":"61", "barrio":"Aguada", "interes":"Venta"},
-    {"imagen":"fotos/foto", "precio":"100.000", "habitaciones":"3", "m2":"95", "barrio":"Pocitos", "interes":"Venta"},
-    {"imagen":"fotos/foto", "precio":"30.000", "habitaciones":"2", "m2":"84", "barrio":"Parque Rodó", "interes":"Alquiler"}
+    {"imagen":"fotos/casa.jpg", "precio":"10.000", "habitaciones":"1", "m2":"20", "barrio":"Cerro", "interes":"Alquiler"},
+    {"imagen":"fotos/casa.jpg", "precio":"120.000", "habitaciones":"3", "m2":"71", "barrio":"Prado", "interes":"Venta"},
+    {"imagen":"fotos/casa.jpg", "precio":"15.000", "habitaciones":"2", "m2":"45", "barrio":"La Teja", "interes":"Alquiler"},
+    {"imagen":"fotos/casa.jpg", "precio":"19.000", "habitaciones":"2", "m2":"56", "barrio":"Reducto", "interes":"Alquiler"},
+    {"imagen":"fotos/casa.jpg", "precio":"200.000", "habitaciones":"4", "m2":"120", "barrio":"Carrasco", "interes":"Venta"},
+    {"imagen":"fotos/casa.jpg", "precio":"11.000", "habitaciones":"1", "m2":"22", "barrio":"Belvedere", "interes":"Alquiler"},
+    {"imagen":"fotos/casa.jpg", "precio":"90.000", "habitaciones":"2", "m2":"51", "barrio":"Centro", "interes":"Venta"},
+    {"imagen":"fotos/casa.jpg", "precio":"54.000", "habitaciones":"2", "m2":"61", "barrio":"Aguada", "interes":"Venta"},
+    {"imagen":"fotos/casa.jpg", "precio":"100.000", "habitaciones":"3", "m2":"95", "barrio":"Pocitos", "interes":"Venta"},
+    {"imagen":"fotos/casa.jpg", "precio":"30.000", "habitaciones":"2", "m2":"84", "barrio":"Parque Rodó", "interes":"Alquiler"}
 ]

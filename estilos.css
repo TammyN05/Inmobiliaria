@@ -1,0 +1,38 @@
+body{
+            
+    background-image: ;
+    background-color: #ffbbbb;
+};
+header{
+    background-color: #454545;
+    color:burlywood;
+}
+/* .overflow{
+    overflow-y:scroll;
+    overflow-x: auto;
+    height:200px;
+} */
+.card img{
+    height: 200px;
+    padding-bottom: 20px;
+
+}
+.card {
+    height: 500px;
+    
+}
+.card-text {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.ultimo{
+    padding-bottom: 30px;
+}
+
+
+.card-title {
+    padding-left: 20px;
+    padding-bottom: 10p;
+    
+}
