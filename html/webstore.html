@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio de sesión</title>
+    <link rel="stylesheet" href="/css/webstore.css">
+</head>
+<body>
+
+    <div class="container-cover">
+        <div class="container-info-cover">
+            <h1>INICIA SESIÓN PARA CONTINUAR</h1>
+        </div>
+    </div>
+
+<Main class="content-contact">
+       <form action="webstore.html" class="form">
+
+        <label for="nombre">Nombre</label>
+        <input type="text" name="nombre" id="nombre" placeholder="Escribe tu nombre"/>
+    
+        <label for="apellidos">Apellido</label>
+        <input type="text" name="apellidos" id="apellidos" placeholder="Apellido"/>
+    
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="Email" required />
+        
+        <button type="submit" id="btnSession">Enviar</button>
+    </form>
+
+    <div id="mostrar"></div>
+    <div id="mostrarSession"></div>
+
+</Main>
+
+    <script src="/js/webstore.js"></script>
+</body>
+</html>

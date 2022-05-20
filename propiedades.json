@@ -8,5 +8,7 @@
     {"imagen":"fotos/casa.jpg", "precio":"90.000", "habitaciones":"2", "m2":"51", "barrio":"Centro", "interes":"Venta"},
     {"imagen":"fotos/casa.jpg", "precio":"54.000", "habitaciones":"2", "m2":"61", "barrio":"Aguada", "interes":"Venta"},
     {"imagen":"fotos/casa.jpg", "precio":"100.000", "habitaciones":"3", "m2":"95", "barrio":"Pocitos", "interes":"Venta"},
-    {"imagen":"fotos/casa.jpg", "precio":"30.000", "habitaciones":"2", "m2":"84", "barrio":"Parque Rodó", "interes":"Alquiler"}
+    {"imagen":"fotos/casa.jpg", "precio":"30.000", "habitaciones":"2", "m2":"84", "barrio":"Parque Rodó", "interes":"Alquiler"},
+    {"imagen":"fotos/casa.jpg", "precio":"115.000", "habitaciones":"3", "m2":"95", "barrio":"Paso Molino", "interes":"Venta"},
+    {"imagen":"fotos/casa.jpg", "precio":"45.000", "habitaciones":"2", "m2":"84", "barrio":"Malvín", "interes":"Alquiler"}
 ]

@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Euphoria+Script&family=Hurricane&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    text-decoration: none; 
+    font-family: sans-serif;
+}
+
+.container-cover {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 150px;
+    position: relative;
+    background: rgb(47,91,162);
+    background: linear-gradient(180deg, rgba(47,91,162,1) 0%, rgba(14,22,19,1) 75%, rgba(4,21,11,1) 100%);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.container-info-cover {
+    margin: auto;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+.container-info-cover h1 {
+    color: white;
+    font-size: 30px;
+    font-family:'Poppins', sans-serif; 
+    font-weight: 400;
+    bottom: 50px;
+}
+
+
+form{
+	width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+    margin-bottom: 50px;
+	background-color:#ccc;
+
+}
+
+form label{
+	width:72px;
+    font-family:'Poppins', sans-serif; 
+	font-weight:bold;
+	display:inline-block;
+    align-items: left;
+
+}
+
+form input[type="text"],
+form input[type="email"]{
+	width:180px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+    font-family:'Poppins', sans-serif; 
+}
+
+#btnSession {
+	width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+    font-family:'Poppins', sans-serif; 
+} 
+
+#btnSession:hover{
+    background-color:rgb(41, 41, 41);
+	cursor:pointer;
+}
+
+textarea{
+	width:100%;
+	height:100px;
+    padding: 15px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;			
+	margin:8px 0;
+	resize:none;
+	display:block;
+    font-family:'Poppins', sans-serif; 
+}
