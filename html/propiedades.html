@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inmobiliaia</title>
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="/css/estilos.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 </head>
 <body>
@@ -15,8 +15,8 @@
     <header class="p-3 bg-dark text-white">
         <div class="container">
           <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-            <a href="fotos/logo.png" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
-              <img src="fotos/logo.png" class="bi me-2" width="150" height="100" role="img" aria-label="Bootstrap"></img>
+            <a href="propiedades.html" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
+              <img src="/fotos/logo.png" class="bi me-2" width="150" height="100" role="img" aria-label="Bootstrap"></img>
             </a>
     
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
@@ -52,6 +52,43 @@
 
     <!-------------------------FILTROS DE BUSQUEDA--------------------->  
 
+    <div class="container-fluid text-center">
+      <div><h4 class="titulo-filtro">Filtra según tus preferencias</h4></div>
+      <div> <br>
+           
+          <select name="" id="botonPrecio" class="boton btn btn-dark">
+              <option value="Precio" class="boton btn btn-dark">Precio</option>
+              <option value="10">10.000 a 20.000</option>
+              <option value="30">30.000 a 60.000</option>
+              <option value="90">90.000 a 200.000</option>
+          </select>
+          <select name="" id="botonBarrio" class="boton btn btn-dark">
+              <option value="Barrio" class="boton btn btn-dark">Barrio</option>
+              <option value="Cerro">Cerro</option>
+              <option value="Prado"> Prado</option>
+              <option value="Reducto">Reducto</option>
+              <option value="La Teja">La Teja</option>
+              <option value="Aguada">Aguada</option>
+              <option value="Belvedere">Buceo</option>
+              <option value="Carrasco">Buceo</option>
+              <option value="Parque Rodó">Parque Rodó</option>
+              <option value="Punta Carretas">Punta Carretas</option>
+              <option value="Centro">Centro</option>
+          </select> 
+          <select name="" id="botonInteres" class="boton btn btn-dark">
+              <option value="interés">Interés</option>
+              <option value="Alquiler">Alquiler</option>
+              <option value="Venta">Venta</option>
+          </select>
+          <select name="" id="botonHabitaciones" class="boton btn btn-dark">
+            <option value="Habitaciones">Habitaciones</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+      </div>
+  </div>
 
 
      <!---------------------CARTAS DE LAS PROPIEDADES----------------->
@@ -62,7 +99,8 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
+<script src="/js/script.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 </body>
 </html>

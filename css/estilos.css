@@ -60,7 +60,7 @@ header{
         0deg, 
        rgba(0, 0, 0, 0.9), 
        rgba(0, 0, 0, 0.3)
-    ),url(fotos/portada.jpg);
+    ),url(/fotos/portada.jpg);
     background-position: center;
     background-size: cover;
 
@@ -88,4 +88,9 @@ header{
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-weight: 300;
+}
+
+.titulo-filtro {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
 }
