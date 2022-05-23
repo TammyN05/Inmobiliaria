@@ -151,3 +151,19 @@
                 });
             }
             botonH.addEventListener("click", ordenarHabitaciones)
+
+            //Barra de busqueda . nombre
+
+            /*let botonBuscar = document.getElementById("buscar");
+            botonBuscar = document.getElementById("buscar");
+            botonBuscar.addEventListener("click", function (){
+            buscar();
+            })
+
+            function buscar(){
+            let coincidencia = document.getElementById("buscador").value;
+            let filtrada = casas.filter(x => x.Titulo.toLowerCase().indexOf(coincidencia.toLowerCase()) > -1);
+            mostrarProductos(filtrada);
+            }*/
+
+       
